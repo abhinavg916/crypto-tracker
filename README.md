@@ -10,7 +10,7 @@ Developed responsive cryptocurrency tracking app using Reactjs, featuring trends
 
 ### Features
 
-- **Track Cryptocurrencies**: Tracks current prices for cryptocurrencies by utilizing the CoinRanking API and display up-to-date information on various cryptocurrencies.
+- **Track Cryptocurrencies**: Tracks current prices for cryptocurrencies by utilizing the CoinRanking API and display up-to-date information.
 - **Interactive Data Visualization** - Employs Chart.js to present graphical representations of cryptocurrency trends and statistics.
 - **State Management** - Implements Redux and Redux Toolkit for efficient state management across the application.
 
