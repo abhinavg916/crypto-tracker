@@ -4,7 +4,7 @@
 
 Watch the live production build here i.e. **deployment** - [Live Preview](https://resilient-cobbler-d00601.netlify.app/)
 
-**Developed** using Reactjs, Redux / Redux Toolkit, Axios, Redux Toolkit Query (RTK Query), React Router, Chartjs
+**Developed** using Reactjs, Redux / Redux Toolkit, Axios, Redux Toolkit (RTK) Query, React Router, Chartjs
 
 Developed responsive cryptocurrency tracking app using Reactjs, featuring trends of various cryptocurrencies with their prices. Employed Chart.js for interactive data visualization, presenting dynamic charts for historical price insights. Utilized Redux and Redux Toolkit for robust state management.
 
