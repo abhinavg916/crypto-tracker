@@ -2,13 +2,17 @@
 
 ![cover]()
 
-Watch the live production build here i.e. **deployment** - [Live Preview]()
+Watch the live production build here i.e. **deployment** - [Live Preview](https://resilient-cobbler-d00601.netlify.app/)
 
 **Developed** using Reactjs, Redux / Redux Toolkit, Axios, React Router, Chartjs
 
-Developed Crypto Tracker using React.js
+Developed responsive cryptocurrency tracking app using Reactjs, featuring trends of various cryptocurrencies with their prices. Employed Chart.js for interactive data visualization, presenting dynamic charts for historical price insights. Utilized Redux and Redux Toolkit for robust state management.
 
 ### Features
+
+- **Track Cryptocurrencies**: Tracks current prices for cryptocurrencies by utilizing the CoinRanking API and display up-to-date information on various cryptocurrencies.
+- **Interactive Data Visualization** - Employs Chart.js to present graphical representations of cryptocurrency trends and statistics.
+- **State Management** - Implements Redux and Redux Toolkit for efficient state management across the application.
 
 ### Steps to Run
 
