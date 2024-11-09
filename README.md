@@ -1,6 +1,6 @@
 # Crypto Tracker
 
-![cover]()
+![cover](https://github.com/abhinavg916/crypto-tracker/blob/main/Crypto%20Tracker%20Cover.png)
 
 Watch the live production build here i.e. **deployment** - [Live Preview]()
 
